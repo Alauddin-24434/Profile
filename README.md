@@ -5,7 +5,6 @@
   Passionate about clean UI, performance optimization, and real-world problem solving.
 </p>
 
-
 <p align="center">
   <a href="https://linkedin.com/in/alauddin-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -21,7 +20,6 @@
   </a>
 </p>
 
----
 
 ## 🧑‍💻 About Me
 
@@ -32,41 +30,6 @@ I enjoy solving real-world problems using modern technologies and continuously i
 - 🌱 Learning **System Design, DevOps (Docker, CI/CD)**
 - 💬 Ask me about **React, Node.js, TypeScript**
 - ⚡ Focused on **clean UI, performance & scalable architecture**
-
----
-
-## ⚠️ Important Note About My GitHub Accounts
-
-Due to an issue with **Two-Factor Authentication (2FA)**, I lost access to my previous GitHub accounts:
-
-👉 https://github.com/Alauddin-Dev-Bd  
-
-
-These accounts contain my earlier projects and real-world development work.
-
-To continue my journey, I created this new account where I actively maintain all new projects.
-
-💡 I am **not a beginner developer** — I have prior experience in full-stack development, backend systems, and production-level projects.
-
----
-
-## 📌 Previous Work
-
-You can explore my earlier projects here:
-
-- 🔗 https://github.com/Alauddin-Dev-Bd  
-
-
----
-
-## 🌐 Socials
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mdalauddin15)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/alsajjad.islam)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alauddin-dev)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alauddin150900@gmail.com)
-
----
 
 ## 🚀 Tech Stack
 
@@ -98,10 +61,8 @@ You can explore my earlier projects here:
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
 ## 📊 GitHub Stats
 
-### 🆕 Current Account
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=dev-alauddin-bd&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=dev-alauddin-bd&theme=radical)
 
