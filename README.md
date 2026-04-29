@@ -1,95 +1,96 @@
-<h1 align="center">Hi 👋, I'm MD ALAUDDIN</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN & Next.js</h3>
-<p align="center">
-  I build fast, scalable, and modern web applications using MERN stack, Next.js, and TypeScript.<br/>
-  Passionate about clean UI, performance optimization, and real-world problem solving.
-</p>
+<div align="center">
+  <img src="Alauddin-24434-readme-banner (1).png" alt="Banner" width="100%" />
 
-<p align="center">
-  <a href="https://portfolio-2sv3.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  <h1>Hi 👋, I'm MD ALAUDDIN</h1>
+  <h3>🚀 Full Stack Developer | MERN & Next.js</h3>
 
-  <a href="https://linkedin.com/in/alauddin-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <p align="center">
+    📍 Dhaka, Bangladesh | 📧 <a href="mailto:muhammadalauddin24434@gmail.com">muhammadalauddin24434@gmail.com</a>
+  </p>
+
+  <p align="center">
+    <a href="https://portfolio-2sv3.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    </a>
+    <a href="https://linkedin.com/in/alauddin-dev">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
     <a href="https://discord.gg/mdalauddin_13103">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="mailto:muhammadalauddin24434@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
+    <a href="https://facebook.com/alsajjad.islam">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    </a>
+  </p>
+</div>
 
-  <a href="https://facebook.com/alsajjad.islam">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
+---
 
+### 🧑‍💻 About Me
 
+I’m a passionate **Full-Stack Developer** who loves building fast, scalable, and user-friendly web applications. I enjoy solving real-world problems using modern technologies and continuously improving my skills.
+
+- 🔭 I’m currently working on **Alhamdulillah Foundation** (A Charity Management System).
+- 🚀 I am exploring **Next.js 14** and **Scalable Backend Architectures**.
+- 🌱 I’m currently working on a **Tourism/Hotel Management Website** (Royal Palace).
+- 💬 Ask me about **React, Node.js, TypeScript**.
+- ⚡ Fun fact: I love clean UI and performance optimization.
+
+---
+
+### 🚀 Tech Stack & Skills
+
+#### **Frontend**
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-##
-💡 **Note:** I previously worked on another GitHub account: 👉 https://github.com/Alauddin-Dev-Bd
+#### **Backend & Database**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white" />
+</p>
 
-## 🧑‍💻 About Me
+#### **Tools & DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
 
-I’m a passionate **Full-Stack Developer** who loves building fast, scalable, and user-friendly web applications.  
-I enjoy solving real-world problems using modern technologies and continuously improving my skills.
+---
 
-- 🔭 Currently working on **Next.js & Scalable Backend Systems**
-- 🌱 Learning **System Design, DevOps (Docker, CI/CD)**
-- 💬 Ask me about **React, Node.js, TypeScript**
-- ⚡ Focused on **clean UI, performance & scalable architecture**
+### 📊 GitHub Stats
 
-## 🚀 Tech Stack
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=dev-alauddin-bd&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=dev-alauddin-bd&theme=radical&hide_border=true" />
+</div>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<br/>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dev-alauddin-bd&layout=compact&theme=radical&hide_border=true" />
+  <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-alauddin-bd&theme=react-dark&hide_border=true" />
+</div>
 
-## 📊 GitHub Stats
+---
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=dev-alauddin-bd&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=dev-alauddin-bd&theme=radical" />
+  💡 <b>Note:</b> I previously worked on another GitHub account: <a href="https://github.com/Alauddin-Dev-Bd">Alauddin-Dev-Bd</a> (Lost access due to 2FA issues).
 </p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dev-alauddin-bd&layout=compact&theme=radical" />
-</p>
-
-## 📈 Activity Graph
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-alauddin-bd&theme=react-dark)
-
-## ⚠️ Note
-
-I previously worked on another GitHub account: 👉 https://github.com/Alauddin-Dev-Bd  
-
-Unfortunately, I lost access to that account due to a **Two-Factor Authentication (2FA) issue**.
-
-It contains my earlier projects, contributions, and development experience.
 
