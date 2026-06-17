@@ -1,18 +1,7 @@
 <div align="center">
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1CD15D,100:0ea5e9&height=200&section=header&text=MD%20ALAUDDIN&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
-  <h3 style="color:#f59e0b;">
-    🚀 FULL STACK DEVELOPER | ⚙️ BACKEND SPECIALIST | 🌐 MERN STACK
-  </h3>
-
-  <p style="color:#94a3b8;">
-    📍 Dhaka, Bangladesh &nbsp; | &nbsp; 📧 
-    <a href="mailto:muhammadalauddin24434@gmail.com" style="color:#38bdf8;">
-      muhammadalauddin24434@gmail.com
-    </a>
-  </p>
+  <img src="https://github.com/dev-alauddin-bd/dev-alauddin-bd/blob/main/templates/gihub.png" />
 
 </div>
 
@@ -41,15 +30,6 @@
 
 ✨ I love turning real-world problems into clean, efficient digital solutions using modern technologies.
 
----
-
-### 🚀 What I'm Doing Now
-
-- 🔭 Building **Alhamdulillah Foundation** — a Charity Management System  
-- 🌱 Exploring **Next.js 14** & **Scalable Backend Architecture**  
-- 🏨 Developing a **Tourism & Hotel Management System (Royal Palace)**  
-
----
 
 ## 🚀 Tech Stack
 
