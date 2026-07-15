@@ -33,6 +33,8 @@
 
 ## 🚀 Tech Stack
 
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue)
+![Fastapi](https://img.shields.io/badge/Fastapi-000000?style=for-the-badge&logo=fastapi&logoColor=green)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
