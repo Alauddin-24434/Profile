@@ -109,14 +109,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dev-alauddin-bd&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Alauddin Islam GitHub Profile Trophies and Achievements" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -125,24 +117,6 @@
 
 ---
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://portfolio-2sv3.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-1CD15D?style=for-the-badge" alt="Alauddin Islam Developer Portfolio Website" />
-  </a>
-  <a href="https://linkedin.com/in/alauddin-dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/💼 LinkedIn-0ea5e9?style=for-the-badge" alt="Alauddin Islam LinkedIn Professional Network" />
-  </a>
-  <a href="https://discord.gg/mdalauddin_13103" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/💬 Discord-6366f1?style=for-the-badge" alt="Alauddin Islam Discord Community" />
-  </a>
-  <a href="https://facebook.com/alsajjad.islam" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/📘 Facebook-2563eb?style=for-the-badge" alt="Alauddin Islam Facebook Social Profile" />
-  </a>
-</p>
-
----
 
 ## 💡 Previous Account
 
