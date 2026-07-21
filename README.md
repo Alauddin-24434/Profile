@@ -1,7 +1,8 @@
 <!-- 
   SEO Optimized GitHub Profile README
-  Author: Alauddin Islam
-  Location: Bangladesh
+  Author: Md Alauddin
+  username:dev-alauddin-bd
+  Location: Bangladesh(Remote)
   Role: Full-Stack Developer
   Keywords: Full Stack Developer, React Developer, Next.js Developer, 
             Node.js Developer, Python Developer, FastAPI, MongoDB, 
@@ -9,24 +10,22 @@
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1CD15D&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Alauddin+Islam;Full-Stack+Developer+from+Bangladesh;Building+Scalable+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+Python" alt="Alauddin Islam - Full Stack Developer from Bangladesh typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1CD15D&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Alauddin;Full-Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+Python" alt="Md Alauddin - Full Stack Developer from Bangladesh typing animation" />
 </h1>
 
 <h3 align="center">🚀 Passionate Full-Stack Developer | Bangladesh | Web Application Specialist</h3>
 
 <p align="center">
-  <a href="https://portfolio-2sv3.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://dev-alauddin-bd.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-1CD15D?style=for-the-badge&logo=vercel&logoColor=white" alt="Alauddin Islam Portfolio Website" />
   </a>
-  <a href="https://linkedin.com/in/alauddin-dev" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/dev-alauddin-bd/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white" alt="Alauddin Islam LinkedIn Profile" />
   </a>
-  <a href="https://discord.gg/mdalauddin_13103" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.gg/dev.alauddin.bd" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-6366f1?style=for-the-badge&logo=discord&logoColor=white" alt="Alauddin Islam Discord" />
   </a>
-  <a href="https://facebook.com/alsajjad.islam" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-2563eb?style=for-the-badge&logo=facebook&logoColor=white" alt="Alauddin Islam Facebook Profile" />
-  </a>
+
 </p>
 
 ---
