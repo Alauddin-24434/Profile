@@ -39,7 +39,7 @@
   <li>🌱 Exploring <strong>AI/ML Integration</strong> and <strong>Cloud Architecture</strong></li>
   <li>👯 Open to collaborate on <strong>Open Source Projects</strong> and <strong>Web Development</strong></li>
   <li>💬 Ask me about <strong>JavaScript, TypeScript, React, Next.js, Node.js, Python, FastAPI, MongoDB, PostgreSQL</strong></li>
-  <li>📫 Reach me at: <a href="https://linkedin.com/in/alauddin-dev">LinkedIn</a> or <a href="https://portfolio-2sv3.vercel.app/">Portfolio</a></li>
+  <li>📫 Reach me at: <a href="https://linkedin.com/in/dev-alauddin-bd">LinkedIn</a> or <a href="https://dev-alauddin-bd.vercel.app/">Portfolio</a></li>
   <li>⚡ Fun fact: I love solving complex problems with elegant code solutions</li>
 </ul>
 
